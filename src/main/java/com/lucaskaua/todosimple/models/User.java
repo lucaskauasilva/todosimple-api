@@ -90,9 +90,9 @@ public class User {
     public List<Task> getTasks() {
         return tasks;
     }
-
+    
     public void setTask(List<Task> tasks) {
-        this.tasks = tasks;
+    this.tasks = tasks;
     }
 
     @Override
